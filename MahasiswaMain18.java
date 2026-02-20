@@ -7,7 +7,8 @@ public class MahasiswaMain18 {
         mhs1.ipk = 3.55;
 
         Mahasiswa18 mhs2 = new Mahasiswa18("Annisa Nabila", "2141720160", 3.25, "TI 2L");
-        Mahasiswa mhs3 = new Mahasiswa18("Muhammad Rendy Azrul Zaqi", "34567654", 3.75, "SIB 1B");
+        
+        Mahasiswa18 mhs3 = new Mahasiswa18("Muhammad Rendy Azrul Zaqi", "34567654", 3.75, "SIB 1B");
 
         System.out.println("--- Data Mahasiswa 1 ---");
         mhs1.tampilkanInformasi();
